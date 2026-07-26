@@ -5,14 +5,14 @@
 <p align="center">
   <a href="https://shellclient.com"><strong>Website</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Default-CodeStack/ShellClient"><strong>ShellClient</strong></a>
+  <a href="https://github.com/RuntimeShell/ShellClient"><strong>ShellClient</strong></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/waCPdJFs5"><strong>Discord</strong></a>
 </p>
 
 I’m **Runtime**. I build focused desktop software where speed, clear interaction and dependable engineering matter equally.
 
-My main project is **[ShellClient](https://github.com/Default-CodeStack/ShellClient)** — an open-source Minecraft launcher built with a Rust core and a polished Svelte interface. It handles accounts, isolated instances, loaders, Java runtimes, mod management, downloads, updates and the game launch lifecycle without turning routine setup into busywork.
+My main project is **[ShellClient](https://github.com/RuntimeShell/ShellClient)** — an open-source Minecraft launcher built with a Rust core and a polished Svelte interface. It handles accounts, isolated instances, loaders, Java runtimes, mod management, downloads, updates and the game launch lifecycle without turning routine setup into busywork.
 
 ### Currently building
 
@@ -29,15 +29,15 @@ My main project is **[ShellClient](https://github.com/Default-CodeStack/ShellCli
     <td width="68%">
       <h3>A launcher that gets out of the way.</h3>
       <p>Vanilla, Fabric, Forge, Quilt and NeoForge instances; automatic Java management; Modrinth content; live game logs; skins; servers; system tray support; and carefully limited offline profiles.</p>
-      <p><a href="https://github.com/Default-CodeStack/ShellClient"><strong>Explore the source →</strong></a></p>
+      <p><a href="https://github.com/RuntimeShell/ShellClient"><strong>Explore the source →</strong></a></p>
     </td>
     <td width="32%" align="center">
-      <a href="https://github.com/Default-CodeStack/ShellClient">
-        <img src="https://img.shields.io/github/stars/Default-CodeStack/ShellClient?style=for-the-badge&label=STARS&color=18191b" alt="ShellClient stars">
+      <a href="https://github.com/RuntimeShell/ShellClient">
+        <img src="https://img.shields.io/github/stars/RuntimeShell/ShellClient?style=for-the-badge&label=STARS&color=18191b" alt="ShellClient stars">
       </a>
       <br><br>
-      <a href="https://github.com/Default-CodeStack/ShellClient/releases">
-        <img src="https://img.shields.io/github/v/release/Default-CodeStack/ShellClient?style=for-the-badge&label=RELEASE&color=18191b" alt="Latest ShellClient release">
+      <a href="https://github.com/RuntimeShell/ShellClient/releases">
+        <img src="https://img.shields.io/github/v/release/RuntimeShell/ShellClient?style=for-the-badge&label=RELEASE&color=18191b" alt="Latest ShellClient release">
       </a>
     </td>
   </tr>
